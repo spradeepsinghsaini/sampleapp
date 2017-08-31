@@ -1,0 +1,10 @@
+{
+    "name": "vendor/name",
+    "authors": [
+        {
+            "name": "pradeep",
+            "email": "spradeepsinghsaini@gmail.com"
+        }
+    ],
+    "require": {}
+}
